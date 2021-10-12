@@ -1,7 +1,7 @@
 # Hey there, I'm Ben!👋
 **![Banner](https://raw.githubusercontent.com/jerrykingbob/jerrykingbob/main/Banner1.png)
 
-Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to focus solely on my activities as a developer; consolidating and curating all my OPEN-SOURCE projects, university assignments, and dev resources for those of you who are intereted. ✌️ 
+Bem-vindo to my GitHub scene where you'll gain a bit of insight into my journey as a Cloud Infrastructure Architecture domain. I've decided to use this platform to focus solely on my activities as a solution architect; consolidating and curating all my OPEN-SOURCE projects, freelance project, and IaC resources for those of you who are intereted. ✌️ 
 
 ## Social Links and Websites
 <a href="https://www.linkedin.com/in/fadhullah-iskandar-roy-32489027/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -10,11 +10,9 @@ Welcome to my GitHub page where you'll gain a bit of insight into my journey as 
 <br>
 ## Technical Skills
 ### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
