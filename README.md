@@ -1,5 +1,5 @@
 # Hey there, I'm Ben!👋
-**![Banner](https://raw.githubusercontent.com/jerrykingbob/jerrykingbob/main/Banner1.png)
+
 
 Bem-vindo to my GitHub scene where you'll gain a bit of insight into my journey as a Cloud Infrastructure Architecture domain. I've decided to use this platform to focus solely on my activities as a solution architect; consolidating and curating all my OPEN-SOURCE projects, freelance project, and IaC resources for those of you who are intereted. ✌️ 
 
