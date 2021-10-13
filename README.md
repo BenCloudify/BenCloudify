@@ -1,7 +1,7 @@
 # Hey there, I'm Ben!👋
 
 
-Bem-vindo to my GitHub scene where you'll gain a bit of insight into my journey as a Cloud Infrastructure Architecture domain. I've decided to use this platform to focus solely on my activities as a solution architect; consolidating and curating all my OPEN-SOURCE projects, freelance project, and IaC resources for those of you who are intereted. ✌️ 
+Bem-vindo to my GitHub scene where you'll gain a bit of insight into my journey as a Cloud Infrastructure Architecture domain. I've decided to use this platform to focus solely on my activities as a solution architect; consolidating and curating all my OPEN-SOURCE projects, freelance project, and IaC resources for those of you who are interested. ✌️ 
 
 ## Social Links and Websites
 <a href="https://www.linkedin.com/in/fadhullah-iskandar-roy-32489027/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
